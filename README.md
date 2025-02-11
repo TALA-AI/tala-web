@@ -1,1 +1,3 @@
-# tala-backend
+# tala-web
+
+frontend + backend
